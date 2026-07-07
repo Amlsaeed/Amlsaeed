@@ -1,81 +1,60 @@
-<div align="center" width="50">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/Amlsaeed" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Amlsaeed" alt="Workspace"  width="40%"/><br>
+<h1 align="center">Hi, I'm Amal Saeed 👋</h1>
+<h3 align="center">Backend .NET Developer | Egypt 🇪🇬</h3>
 
-<details>
-<p><strong> <summary> Currently building : </summary> </strong></p>
-🛍️ StyleERP — Arabic-language retail ERP system for the Egyptian fashion market
+<p align="center">
+  I build practical, production-ready business systems — ERPs, LMS platforms, and SaaS products —
+  with ASP.NET Core, EF Core, and SQL Server.
+</p>
 
-</details>
-Show Image
-Show Image
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amal-saeed-472948296">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Amlsaeed">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-</div>
-<hr></hr>
-👋 About Me
+---
 
-I'm Amal (Aml) Saeed, a Backend .NET Developer from Egypt 🇪🇬, focused on building real-world business systems — ERPs, LMS platforms, and SaaS products — with clean, practical architecture.
+### About Me
 
+I'm a backend developer focused on building real, working software rather than proof-of-concepts. My current project, **StyleERP**, is a full Arabic-language retail ERP for the Egyptian fashion market — covering POS, inventory, purchasing, returns & exchanges, payroll, and reporting. I keep architecture simple and direct: business logic lives in controllers, no unnecessary layers, so the codebase stays easy to read, debug, and ship.
 
-🏗️ Currently building StyleERP, a full retail ERP for fashion stores: POS, inventory, purchasing, returns & exchanges, payroll, and reporting — all in Arabic with RTL support.
-📚 Previously built ChemistryPlatform, an educational LMS with secure video streaming and online payments.
-🧠 I like keeping architecture simple and direct — business logic in controllers, no unnecessary layers, so the codebase stays easy to read and ship fast.
-🎨 I'm also exploring content creation — animated explainer videos to teach programming concepts in a fun, visual way.
+I've also worked on **ChemistryPlatform**, an educational LMS with secure video streaming and integrated online payments, and on multi-tenant ERP systems for e-commerce merchants.
 
+---
 
-<hr></hr>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+### What I Work With
 
-csharp// tools_I_use organized
+**Backend:** C# · ASP.NET Core MVC · Entity Framework Core · Web API
+**Frontend:** Bootstrap 5 (RTL) · jQuery · Razor Views
+**Database:** SQL Server
+**Integrations:** Paymob · Bunny.net CDN · UltraMsg
+**Tools:** Git · Visual Studio · VS Code · Postman · Docker
 
-class About : Developer
-{
-    public Dictionary<string, string[]> MyTools = new()
-    {
-        { "Languages",      new[] { "C#", "JavaScript", "SQL" } },
-        { "Backend",        new[] { "ASP.NET Core MVC", "Entity Framework Core", "Web API" } },
-        { "Frontend",       new[] { "Bootstrap 5 (RTL)", "jQuery", "Razor Views" } },
-        { "Database",       new[] { "SQL Server" } },
-        { "Integrations",   new[] { "Paymob", "Bunny.net CDN", "UltraMsg" } },
-        { "Tools",          new[] { "Git", "Visual Studio", "VS Code", "Postman", "Docker" } }
-    };
-}
+---
 
+### Featured Projects
 
-🏢   Currently building StyleERP — a complete Arabic retail ERP (POS, inventory, purchasing, returns, payroll).
-📖   Previously built ChemistryPlatform — an LMS with secure video hosting and payment integration.
-🌱   Currently exploring SaaS product ideas for Arabic-speaking merchants.
-💬   Ask me about ASP.NET Core, EF Core, or ERP system design.
-🔗   Find me on LinkedIn.
+**StyleERP** — Arabic-language retail ERP for the fashion industry
+Multi-branch, variant-based inventory · POS with barcode scanning & loyalty points · purchasing & purchase returns · returns & exchange with stock adjustment · payroll reporting · dark/light theming.
+Built with ASP.NET Core MVC, EF Core, SQL Server, Bootstrap 5 RTL.
 
+**ChemistryPlatform** — Educational LMS
+Secure video/PDF delivery via Bunny.net signed URLs · Paymob payment integration · WhatsApp notifications via UltraMsg · deployed on Docker/Hetzner VPS.
 
-<div align="center" >
-<a href="https://github.com/Amlsaeed">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-</a>
-<details>
-  <summary>More stats</summary>
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-</details>
-<hr></hr>
-</div>
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" width="45%"/>
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="45%"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>Let's connect on <a href="https://www.linkedin.com/in/amal-saeed-472948296">LinkedIn</a></sub>
+</p>
